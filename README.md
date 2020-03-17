@@ -14,7 +14,7 @@ Roll no.	DMW	COMPILER	NETWORKING	SOCOLOGY	MANAGEMENT
 9	        18	15	22	26	27
 10	      19	16	23	24	28
 11	      25	22	27	25	29
-12	      26	26	28	26	30
+12	      26	26	28	26	30  
 13	      24	24	29	27	30
 14	      27	25	26	28	28
 15	      28	24	27	29	29
@@ -38,5 +38,5 @@ Roll no.	DMW	COMPILER	NETWORKING	SOCOLOGY	MANAGEMENT	perc %
 14	27	25	26	28	28	89.33333333                            	Go and play health is also imortant
 15	28	24	27	29	29	91.33333333                            	Go and play health is also imortant
 
-With a pie chart:
+With a pie chart:  
 
