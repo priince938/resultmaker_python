@@ -25,6 +25,8 @@ def perc_calc(str1,n,per_subjectmarks,str2):
         wb.save(str2) # save your file to the provided loction
 #give remarks to your student
 def cong(n):
+    wb=xl.load_workbook(str2) #load your workbook
+    sheet=wb['Sheet1']
     for row in range(2,sheet.max_row+1):
         out=sheet.cell(row,n+2)
         san=sheet.cell(row,n+3)
@@ -36,6 +38,7 @@ def cong(n):
             san.value='you r charme'
         else:
             san.value='Go and play health is also imortant'
+    wb.save(str2)
 
 
 #searching for student percentage
