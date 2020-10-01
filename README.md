@@ -1,7 +1,7 @@
 # resultmaker_python
 A simple code which calculate percentage from provided excel sheet and store a new column to the new excel sheet and a pie graph .
 
-excel sheet should be in formate of :
+The excel sheet should be in formate of :
 Roll no.	DMW	COMPILER	NETWORKING	SOCOLOGY	MANAGEMENT
 1	        10	12	12	15	20
 2	        11	15	14	16	21
